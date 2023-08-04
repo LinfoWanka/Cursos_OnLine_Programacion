@@ -7,4 +7,4 @@ b=input()
 
 # convertir estos valores
 c=int(a)+int(b)
-print("La sima de los valores es: ",c)
+print("La suma de los valores es: ",c)

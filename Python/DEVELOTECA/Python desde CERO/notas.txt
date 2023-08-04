@@ -1,0 +1,239 @@
+*******************************************************************
+* 
+* https://www.youtube.com/watch?v=jkC_NxSfTQo
+*
+*******************************************************************
+Ejercicio1
+- # Primer Hola Mundo en archivo
+- # Identacion de codigo
+
+Ejercicio2
+- Comentario en linea
+
+Ejercicio3
+- # Comentarios de varia lineas
+
+Ejercicio4
+- # Trabajar con variables
+
+Ejercicio5
+- # case sensitive
+
+Ejercicio6
+- # tipo de Variables con tipo Type
+
+Ejercicio7
+- # casting de variable
+
+Ejercicio8
+- # Nombre de variables
+
+Ejercicio9
+- # valores escritas por los usuarios 
+
+Ejercicio10
+- # Solicitar valores al usuario
+
+Ejercicio11
+- # Declaracion multiple
+
+Ejercicio12
+- # Operadores aritmeticos
+
+Ejercicio13
+- # Operadores de comparacion
+
+Ejercicio14
+- # Operadores de asignacion
+
+Ejercicio15
+- # Operadores logicos, que nos va a permitir valores de entrada
+
+Ejercicio16
+- # Operadores de identidad
+
+Ejercicio17
+- # Declaracion de multiples variables
+
+Ejercicio18
+- # Un valor a multiples variables
+
+Ejercicio19
+-# Formas de usar el print
+
+Ejercicio20
+- # Aplicacion IMC
+
+Ejercicio21
+- # Descubrir tipos de datos con type
+
+Ejercicio22
+- # Cast de numeros flotantes
+
+Ejercicio23
+- # Manejo de strings
+- # Recortes al string
+
+Ejercicio24
+- # Convertiro texto a mayusculas
+
+Ejercicio25
+- # Convertir texto a minuscula
+
+Ejercicio26
+- # Quitar espacios en blanco de frase
+
+Ejercicio27
+- # Reemplazar string o letra
+
+Ejercicio28
+- # Cortar cadena de texto
+
+Ejercicio29
+- # Concatenar un string
+
+Ejercicio30
+- # Usando format en string
+
+Ejercicio31
+- # Format con strig (indices)
+
+Ejercicio32
+- # Funcion len
+
+Ejercicio33
+- # Condicional if
+
+Ejercicio34
+- # Uso del if-else
+
+Ejercicio35
+- # Uso del elif
+
+Ejercicio36
+- # Uso del if corto
+
+Ejercicio37
+- # Ejemplo de if, elif y else
+
+Ejercicio38
+- # Uso del ciclo while
+
+Ejercicio39
+- # Uso del ciclo while y el if
+
+Ejercicio40
+- # Usando el while con el else
+
+Ejercicio41
+- # Ejemplo de ejercicio con while
+
+Ejercicio42
+- # Uso del ciclo for in
+
+Ejercicio43
+- # Uso del ciclo for con strings
+
+Ejercicio44
+- # Uso de for para range
+
+Ejercicio45
+- # Uso de for con range intervalo
+
+Ejercicio46
+- # Uso de for else
+
+Ejercicio47
+- # Uso de listas en Python
+
+Ejercicio48
+- # Uso de funcion len en las listas
+
+Ejercicio49
+- # Funciones para listas
+
+Ejercicio50
+- # Funciones max y min
+
+Ejercicio51
+- # Accediendo a indices de lista
+
+Ejercicio52
+- # Lectura por indice negativo
+
+Ejercicio53
+- # Lectura con indices y lugares
+
+Ejercicio54
+- # Reemplazo de datos por indice
+
+Ejercicio55
+- # Listas por reemplazo grupal
+
+Ejercicio56
+- # Insertar elementos en listas
+
+Ejercicio57
+- # Agregar un valor a una lista
+
+Ejercicio58
+-  # Uso de extends
+
+Ejercicio59
+- # Borrando con remove y pop
+
+Ejercicio60
+- # Usando del para borrado en lista
+
+Ejercicio61
+- # Usando clear para una lista
+
+Ejercicio62
+- # Ordenamiento de listas
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+vaEjercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+
+
+Ejercicio
+- 

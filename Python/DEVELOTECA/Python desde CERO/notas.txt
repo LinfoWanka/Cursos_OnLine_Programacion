@@ -242,23 +242,23 @@ Ejercicio78
 Ejercicio79
 - # Usando union de Diccionarios
 
-Ejercicio
-- 
+Ejercicio80
+- # Manipulacion de Diccionarios
 
-Ejercicio
-- 
+Ejercicio81
+- # Actualizando un Diccionarios
 
-Ejercicio
-- 
+Ejercicio82
+- # Borrando datos de Diccionarios
 
-Ejercicio
-- 
+Ejercicio83
+- # Copiando un Diccionario
 
-Ejercicio
-- 
+Ejercicio84
+- # Aplicacion para crear listas y datos
 
-Ejercicio
-- 
+Ejercicio85
+- # Empezando con las funciones
 
 Ejercicio
 - 

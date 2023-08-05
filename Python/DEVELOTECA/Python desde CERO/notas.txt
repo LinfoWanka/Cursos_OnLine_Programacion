@@ -191,41 +191,41 @@ Ejercicio61
 Ejercicio62
 - # Ordenamiento de listas
 
-Ejercicio
-- 
+Ejercicio63
+- # Ordenamiento reverso con listas
+
+Ejercicio64
+- # Copiando elementos de lista
+
+Ejercicio65
+- # Otra forma de copiar lista
+
+Ejercicio66
+- # Union de listas
+
+Ejercicio67
+- # Uso de tuplas
+
+Ejercicio68
+- # Lectura de una Tupla
+
+Ejercicio69
+- # Agregar elementos a tupla
+
+Ejercicio70
+- # Recuperar valores de tuplas
+
+Ejercicio71
+- # Asignacion de datos a tuplas
+
+Ejercicio72
+- # Union de tuplas
+
+Ejercicio73
+- # Multiplicaion de tuplas
 
 Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-vaEjercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
+- # Diccionarios en Python
 
 Ejercicio
 - 

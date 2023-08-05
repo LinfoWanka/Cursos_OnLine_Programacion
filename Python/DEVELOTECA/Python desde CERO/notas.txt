@@ -260,6 +260,25 @@ Ejercicio84
 Ejercicio85
 - # Empezando con las funciones
 
+Ejercicio86
+- # Estructura de una funcion sencilla
+
+Ejercicio87
+- # Usando argumentos en funciones
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
 Ejercicio
 - 
 
@@ -271,17 +290,12 @@ Ejercicio
 
 Ejercicio
 - 
-v
-
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
 Ejercicio
 - 
 
-Ejercicio
-- 
-
-Ejercicio
-- 
-
-Ejercicio
-- 
-v

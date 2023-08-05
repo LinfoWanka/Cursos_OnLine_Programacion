@@ -224,16 +224,64 @@ Ejercicio72
 Ejercicio73
 - # Multiplicaion de tuplas
 
-Ejercicio
+Ejercicio74
 - # Diccionarios en Python
 
+Ejercicio75
+- Agregar datos a Diccionarios
+
+Ejercicio76
+- # Uniendo los Diccionarios
+
+Ejercicio77
+- # Obtener valores de Diccionarios
+
+Ejercicio78
+- # Borrando elementos de Diccionarios
+
+Ejercicio79
+- # Usando union de Diccionarios
+
+Ejercicio
+- 
+
 Ejercicio
 - 
 
 Ejercicio
 - 
 
-
+Ejercicio
+- 
 
 Ejercicio
 - 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+v
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+
+Ejercicio
+- 
+v

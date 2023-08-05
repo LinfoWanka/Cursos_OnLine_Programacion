@@ -266,18 +266,17 @@ Ejercicio86
 Ejercicio87
 - # Usando argumentos en funciones
 
-Ejercicio
-- 
+Ejercicio88
+- # Funciones de argumentos variables
 
-Ejercicio
-- 
+Ejercicio89
+- # Funciones de valores predeterminados
 
+Ejercicio90
+- # Argumentos con valores predeterminados
 
-Ejercicio
-- 
-
-Ejercicio
-- 
+Ejercicio91
+- # Calcular el IMC
 
 Ejercicio
 - 

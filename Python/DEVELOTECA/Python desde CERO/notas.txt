@@ -278,14 +278,41 @@ Ejercicio90
 Ejercicio91
 - # Calcular el IMC
 
-Ejercicio
-- 
+Ejercicio92
+- # Creando una clase en Python
+- # Clases, objetos y metodos
+- # Herencia con Python
+
+Ejercicio93
+- # Usando modulos en Python
+
+Ejercicio93_1
+- # Importo las funciones que tengo en el archivo ejercicio93.py
+
+Ejercicio94
+- # Modulo de tiempo (usar modulos ya existentes dentro de Python)
+
+Ejercicio95
+- # Funciones matematicas y modulo math
+
+Ejercicio96
+- # Modulo json para convertir datos
+
+Ejercicio97
+- # Modulo json de JSON a String
+Ejercicio98
+- # Creando una ventana con tkinter
 
 Ejercicio
 - 
 
 Ejercicio
 - 
+Ejercicio
+- 
+Ejercicio
+- 
+
 
 Ejercicio
 - 
@@ -293,8 +320,91 @@ Ejercicio
 - 
 Ejercicio
 - 
+
+
 Ejercicio
 - 
 Ejercicio
 - 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+Ejercicio
+- 
+Ejercicio
+- 
+Ejercicio
+- 
+
+
 
